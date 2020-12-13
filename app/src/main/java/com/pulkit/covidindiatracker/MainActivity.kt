@@ -1,4 +1,4 @@
-package com.pulkit.covidindiatracker
+package com.dheeraj.covidindiatracker
 
 import android.os.Bundle
 import android.view.LayoutInflater

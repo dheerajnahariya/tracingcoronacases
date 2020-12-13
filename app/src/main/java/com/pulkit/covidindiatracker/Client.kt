@@ -1,4 +1,4 @@
-package com.pulkit.covidindiatracker
+package com.dheeraj.covidindiatracker
 
 import okhttp3.OkHttpClient
 import okhttp3.Request

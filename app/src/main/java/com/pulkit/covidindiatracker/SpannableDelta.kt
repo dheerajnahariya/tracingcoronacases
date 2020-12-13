@@ -1,4 +1,4 @@
-package com.pulkit.covidindiatracker
+package com.dheeraj.covidindiatracker
 
 import android.graphics.Color
 import android.text.Spannable

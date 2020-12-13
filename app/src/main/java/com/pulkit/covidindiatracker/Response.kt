@@ -1,4 +1,4 @@
-package com.pulkit.covidindiatracker
+package com.dheeraj.covidindiatracker
 
 data class Response(
 	val statewise: List<StatewiseItem>
